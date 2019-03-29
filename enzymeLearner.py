@@ -1,3 +1,11 @@
+#March 29, 2019
+#Alex Muralles
+#EnzymeLearner.py
+
+#Train an active learning algorithm to identify placental (1) vs bacterial (0) alkaline phosphatases based on 
+#substrate-dependent enzyme velocity. 
+
+
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
